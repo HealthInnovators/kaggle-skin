@@ -1,8 +1,8 @@
 Data Preprocessing: removal of duplicates/NULL, resize images and normalization, encoding (Debankita, Rashi)
-Feature Engineering: Selecting features, heatmap correlation matrix/ PCA (Debankita, Rashi)
-Model Development based on Ensemble learning and Vision Transformers: Transformer model for images: Multi-input model combine image and metadata as training (Everyone)
-AOC curve and compare results (Everyone)
-Hyper-paraterization based on results, Cross Validation for model improving the model (Decision by all)
+Feature Engineering: Selecting features upon heatmap correlation matrix/ PCA (Debankita, Rashi)
+Model Development:  Based on Ensemble learning and Vision Transformers- Transformer model for images after Multi-input model combining image and metadata as training (Everyone)
+Model Evaluation: Generating AOC curve and comparing results (Everyone)
+Model Fine tuning: Hyper-paraterization based on results, Cross Validation for model improving the model (Decision by all)
 Create submission a submission file with output
 
 Target: Benign /Malignant (0,1)

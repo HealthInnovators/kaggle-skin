@@ -6,4 +6,4 @@ Model Fine tuning: Hyper-paraterization based on results, Cross Validation for m
 Create submission a submission file with output
 
 Target: Benign /Malignant (0,1)
-Output file (.csv): Imageids Probality 
+Output file (.csv): Imageids Probability 
